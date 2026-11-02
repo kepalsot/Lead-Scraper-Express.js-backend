@@ -1,0 +1,1 @@
+This project collects 12,000 leads (17% of TAM) from a dynamic, Express.js-powered backend. It bypasses UI rendering, handles state tracking & pagination, and executes POST HTTP requests in accordance with Express.js protocols.
